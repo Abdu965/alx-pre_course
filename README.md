@@ -1,1 +1,2 @@
-Ny first readme
+My first readme
+Editing from github and bringing updates to git
